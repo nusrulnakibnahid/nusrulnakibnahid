@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum👋, I'm Nusrul Nakib Nahid</h1>
-<h3 align="center">I study in B.Sc in Software Engineering at Daffodil International University</h3>
+<h3 align="center">I am software engineering student at Daffodil International University, passionate about building innovative and user-friendly software. I am eager to learn new technologies and collaborate with others to create meaningful products.</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20views&color=0e75b6&style=flat" alt="nusrulnakibnahid" /> </p>
