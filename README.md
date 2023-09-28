@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nakib_nahid" target="blank"><img src="https://img.shields.io/twitter/follow/nakib_nahid?logo=twitter&style=for-the-badge" alt="nakib_nahid" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 💻 I am currently learning **Java Programming Language**
 
 - 📫 How to reach me **nusrulnakibnahid.mail@gmail.com**
 
