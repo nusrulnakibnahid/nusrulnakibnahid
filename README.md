@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nusrulnakibnahid.mail@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fact: My favourite footballer is **Cristiano Ronaldo**. **Cristiano Ronaldo's** journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind us that with passion and perseverance, we can achieve greatness against all odds.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
