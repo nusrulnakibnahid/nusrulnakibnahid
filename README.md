@@ -18,7 +18,7 @@
 
 - <b> 🎯 Hobby : </b>
 
-🏏 Cricket, ⚽ Football, 🏸 Badminton, ✈️ Travelling
+🏏 Cricket, ⚽ Football, 🏸 Badminton, 🧳 Travelling
 <br> </br>
 
 - <b> 🎓 Education : </b>
