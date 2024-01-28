@@ -1,3 +1,4 @@
+<h1 align="center"><b>'بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h1>
 <h1 align="center">Assalamu Alaikum👋, I'm Nusrul Nakib Nahid</h1>
 <h3 align="center">I am software engineering student at Daffodil International University, passionate about building innovative and user-friendly software. I am eager to learn new technologies and collaborate with others to create meaningful products.</h3>
 <img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -9,9 +10,9 @@
 
 - 💻 I am currently learning **Java Programming Language**
 
-- 📫 How to reach me **nusrulnakibnahid.mail@gmail.com**
+- 🔗 How to reach me **nusrulnakibnahid.mail@gmail.com**
 
-- <b> 🤔 Fact : </b> My favourite footballer is **Cristiano Ronaldo**🐐. **Cristiano Ronaldo's** journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
+- <b> 🧾 Fact : </b> My favourite footballer is **Cristiano Ronaldo**🐐. **Cristiano Ronaldo's** journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
 <br> </br>
 
 - <b> 🎯 Hobby : </b>
