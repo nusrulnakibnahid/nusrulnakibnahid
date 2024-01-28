@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en" alt="nusrulnakibnahid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent" alt="nusrulnakibnahid" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nusrulnakibnahid&theme=transparent&card_width=550" alt="GitHub Streak" /></a>
