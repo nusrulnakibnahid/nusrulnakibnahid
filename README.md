@@ -16,17 +16,18 @@
 - 🎯 Hobby:
 
 🏏 Cricket, ⚽ Football, 🏸 Badminton, ✈️ Travelling
-
-
+<br> </br>
 - 🎓 Education:
 
-1.PSC: 2012 [Uttara High School & College] 
+1.PSC (2012): <a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
 
-2.JSC: 2015 [Uttara High School & College]
+2.JSC  (2015): <a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
 
-3.SSC: (2016-2018) [Uttara High School & College]
+3.SSC (2016-2018): <a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
 
-4.HSC: (2018-2020) [Uttara High School & College]
+4.HSC (2018-2020):<a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
+
+5.BSc in Software Engineering (2022-Continue): <a href="https://daffodilvarsity.edu.bd/" target="_blank"> <b> Daffodil International University </b> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
