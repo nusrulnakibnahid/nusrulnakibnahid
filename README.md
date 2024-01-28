@@ -13,6 +13,15 @@
 
 - 🤔 Fact: My favourite footballer is **Cristiano Ronaldo**🐐. **Cristiano Ronaldo's** journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
 
+- 🎯 Hobby:
+🏏 Cricket, ⚽ Football, 🏸 Badminton, ✈️ Travelling
+
+- 🎓 Education:
+1.PSC: 2012 [Uttara High School & College]
+2.JSC: 2015 [Uttara High School & College]
+3.SSC: (2016-2018) [Uttara High School & College]
+4.HSC: (2018-2020) [Uttara High School & College]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nakib_nahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakib_nahid" height="30" width="40" /></a>
