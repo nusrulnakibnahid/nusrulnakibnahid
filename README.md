@@ -1,5 +1,5 @@
 <h3 align="center"><b> 'بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h3>
-<h1 align="center">Assalamu Alaikum👋, I'm Nusrul Nakib Nahid</h1>
+<h1 align="center">Assalamu Alaikum,I'm Nusrul Nakib Nahid</h1>
 <h3 align="center">I am a software engineering student at Daffodil International University, interested in developing innovative and user-friendly software. I enjoy learning new technologies and collaborating with others to create meaningful products I actively seek opportunities to expand my skill set. I am committed to continuous learning, realizing that the technology landscape is constantly evolving.</h3>
 <img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -16,12 +16,12 @@
 - <b> 🧾 Fact : </b> My favourite footballer is **Cristiano Ronaldo**🐐. **Cristiano Ronaldo's** journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
 <br> </br>
 
-- <b> 🎯 Hobby : </b>
+- <b><h3> 🎯 Hobby : </h3></b>
 
 🏏 Cricket, ⚽ Football, 🏸 Badminton, 🧳 Travelling
 <br> </br>
 
-- <b> 🎓 Education : </b>
+- <b> <h3>🎓 Education : </h3></b>
 
 1.<b> PSC </b> (2012): <a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
 
