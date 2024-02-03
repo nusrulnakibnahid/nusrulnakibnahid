@@ -31,7 +31,7 @@
 
 4.<b> HSC</b> (2018-2020):<a href="https://en.wikipedia.org/wiki/Uttara_High_School_and_College" target="_blank"> <b> Uttara High School & College </b> </a> 
 
-5.<b> B.Sc in Software Engineering </b> (2022-Continue): <a href="https://daffodilvarsity.edu.bd/" target="_blank"> <b> Daffodil International University </b> </a> 
+5.<b> B.Sc in Software Engineering </b> (2022-Present): <a href="https://daffodilvarsity.edu.bd/" target="_blank"> <b> Daffodil International University </b> </a> 
 <br> </br>
 
 <h3 align="left">Connect with me:</h3>
