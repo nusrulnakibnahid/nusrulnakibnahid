@@ -1,14 +1,6 @@
 ![Untitled design](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/cef76ac0-71ec-431b-a39a-7a52521016cb)
 
 
-
-
-
-
-
-
-
-
 <h5 align="center"><b> 'بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h5>
 <h1 align="center">Assalamu Alaikum,Myself Nahid</h1>
 <h3 align="center">I am a software engineering student at Daffodil International University, interested in developing innovative and user-friendly software. I enjoy learning new technologies and collaborating with others to create meaningful products I actively seek opportunities to expand my skill set. I am committed to continuous learning, realizing that the technology landscape is constantly evolving.</h3>
