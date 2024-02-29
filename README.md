@@ -1,6 +1,13 @@
 <h5 align="center"><b> 'بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h5> 
 
-![Untitled design](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/cef76ac0-71ec-431b-a39a-7a52521016cb)
+![Untitled design](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
+
+
+
+ 
+
+
+
 
 
 
