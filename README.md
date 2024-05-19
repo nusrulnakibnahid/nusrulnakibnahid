@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/nakib_nahid" target="blank"><img src="https://img.shields.io/twitter/follow/nakib_nahid?logo=twitter&style=for-the-badge" alt="nakib_nahid" /></a> </p>
 
-- 💻 I am currently learning **Java Programming Language**
+- 💻 I am currently learning **Java Programming Language,Full Stack Development**
 
 - 🔗 How to reach me:
 <b>(📧Gmail):</b> **nusrulnakibnahid.mail@gmail.com** <br> </br>
