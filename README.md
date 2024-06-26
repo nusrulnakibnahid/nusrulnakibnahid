@@ -19,7 +19,7 @@
   </a> 
 </p>
 
-- 💻 I am currently learning **Java Programming Language, Full Stack Development**
+- 💻 I am currently learning **Full Stack Development**
 
 - 🔗 How to reach me:
   - **📧 Gmail:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)
