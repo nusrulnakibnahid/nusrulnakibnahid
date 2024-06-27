@@ -99,7 +99,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=550" alt="GitHub Streak" width="520" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=750" alt="GitHub Streak" width="820" />
 </p>
 
 
