@@ -93,9 +93,19 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nusrulnakibnahid&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nusrulnakibnahid&theme=transparent&card_width=550)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="462" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=550" alt="GitHub Streak" width="520" />
+</p>
+
+
+
+
 
 
 
