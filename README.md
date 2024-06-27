@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
 
-# <h3 align="center"><b><u> Assalamu Alaikum, Myself Nahid </u></b></h3> 
+# <h3 align="center"><b> <u> Assalamu Alaikum, Myself Nahid </u></b></h3> 
 
 
 #### <h5 align="center">Welcome to my GitHub profile! I am a software engineering student at Daffodil International University, interested in developing innovative and user-friendly software. I enjoy learning new technologies and collaborating with others to create meaningful products. I actively seek opportunities to expand my skill set. I am committed to continuous learning, realizing that the technology landscape is constantly evolving.</h5> 
