@@ -12,8 +12,9 @@
 - 🔭 I’m currently working on PHP and Laravel projects.
 - 🌱 I’m continuously learning and improving my skills in web development.
 - 💬 Ask me about PHP, Laravel, HTML, CSS, and JavaScript.
-- 📫 How to reach me: [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)
-- ⚡ Fun fact: My favourite footballer is Cristiano Ronaldo 🐐. His journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
+- **📧 Gmail:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)
+- **🌐 Website:** [nusrulnakibnahid](https://nusrulnakibnahid.github.io/My-Portfolio-Website/)
+- ⚡ Fact: My favourite footballer is Cristiano Ronaldo 🐐. His journey from a humble upbringing to becoming a football legend is truly inspiring. His unwavering dedication, relentless work ethic, and exceptional talent remind me that with passion and perseverance, I can achieve greatness against all odds.
 - 🎯 Hobby: 
   - 🏏 Cricket 
   - 🧳 Travelling
