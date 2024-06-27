@@ -9,7 +9,6 @@
 
 ## About Me
 
-- 🔭 I’m currently working on PHP and Laravel projects.
 - 🌱 I’m continuously learning and improving my skills in web development.
 - 💬 Ask me about PHP, Laravel, HTML, CSS, and JavaScript.
 - **📧 Gmail:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)
