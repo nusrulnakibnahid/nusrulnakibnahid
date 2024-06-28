@@ -1,11 +1,20 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile View Counter:" /> </p> 
+ 
 <h5 align="center"><b> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h5>        
 
 ![Profile Banner](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
 
+  
 # <h3 align="center"><b> <u> Assalamu Alaikum, Myself Nahid </u></b></h3> 
 
-
 #### <h5 align="center">Welcome to my GitHub profile! I am a software engineering student at Daffodil International University, interested in developing innovative and user-friendly software. I enjoy learning new technologies and collaborating with others to create meaningful products. I actively seek opportunities to expand my skill set. I am committed to continuous learning, realizing that the technology landscape is constantly evolving.</h5> 
+
+<p align="left">
+  <a href="https://u8views.com/github/nusrulnakibnahid"><img src="https://u8views.com/api/v1/github/profiles/105875914/views/day-week-month-total-count.svg" alt="U8Views Profile View Counter" /></a>
+</p> 
+
+
+
 
 ## About Me
 
@@ -43,7 +52,6 @@
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### Tools
 
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,20 +59,17 @@
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
 ## Projects
 
 <p align="center">
   <img src="https://img.icons8.com/ios/452/error.png" alt="Error Icon" width="100" />
-</p> <p align="center">
-  <img src="https://img.shields.io/badge/Error-FF0000?style=for-the-badge&logo=error&logoColor=white&labelColor=black&logo Width=100" alt="Error Icon" />
+</p> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Error-FF0000?style=for-the-badge&logo=error&logoColor=white&labelColor=black&logoWidth=100" alt="Error Icon" />
 </p>
-<p align="center"> Currently, there are no projects available.</p>
-
-
-
-
+<p align="center">
+  Currently, there are no projects available.
+</p>
 
 ## Connect with Me
 
@@ -86,19 +91,12 @@
   </a>
 </p>
 
-
-
-
-
-
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
-    <img src="https://github-readme-stats.vercel.app/api/?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="462" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="462" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=750" alt="GitHub Streak" width="820" />
@@ -106,10 +104,6 @@
 
 
 
-
-
-
-
 <!--
-**nusrulnakibnahid/nusrulnakibnahid** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nusrulnakibnahid/nusrulnakibnahid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
