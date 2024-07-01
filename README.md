@@ -98,7 +98,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusrulnakibnahid&theme=res)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusrulnakibnahid&theme=algolia)
 
 
 
@@ -114,8 +114,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=750" alt="GitHub Streak" width="820" />
 </p>
-
-
 
 <!--
 **nusrulnakibnahid/nusrulnakibnahid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
