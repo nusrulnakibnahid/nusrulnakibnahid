@@ -96,6 +96,14 @@
   </a>
 </p>
 
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusrulnakibnahid&theme=res)
+
+
+
+
+
 ## GitHub Stats
 
 <p align="center">
