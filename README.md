@@ -98,7 +98,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusrulnakibnahid&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nusrulnakibnahid&theme=white)
 
 
 
