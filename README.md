@@ -67,14 +67,17 @@
 ## Projects
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/error.png" alt="Error Icon" width="100" />
-</p> 
-<p align="center">
-  <img src="https://img.shields.io/badge/Error-FF0000?style=for-the-badge&logo=error&logoColor=white&labelColor=black&logoWidth=100" alt="Error Icon" />
+  <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Empty Folder Icon" width="100" />
 </p>
 <p align="center">
-  Currently, there are no projects available.
+  <img src="https://img.shields.io/badge/Projects-No%20Projects-yellow?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="No Projects Badge" />
 </p>
+<p align="center">
+  It seems there are no projects available at the moment. Stay tuned!
+</p>
+
+
+
 
 ## Connect with Me
 
