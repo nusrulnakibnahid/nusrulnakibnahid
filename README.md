@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Projects-No%20Projects-yellow?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="No Projects Badge" />
 </p>
 <p align="center">
-  It seems there are no projects available at the moment. Stay tuned!
+  <strong><span style="font-size: 164px;">It seems there are no projects available at the moment. Stay tuned!</span></strong>
 </p>
 
 
