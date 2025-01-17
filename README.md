@@ -1,4 +1,4 @@
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile View Counter:" /> </p>  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile View Counter:" /> </p>  
 
 <h5 align="center"><b> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </b></h5>                 
   
@@ -31,6 +31,14 @@
 - 🎯 Hobby: 
   - 🏏 Cricket 
   - 🧳 Travelling
+
+## Certificates & Achievements
+
+<p align="center">
+  <a href="[https://drive.google.com/drive/folders/YOUR_DRIVE_LINK](https://drive.google.com/drive/folders/1vXb9Ceh73GHBMhZvj-Z4CL1MVljUP3i2)" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Certificates%20&%20Achievements-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificates & Achievements" />
+  </a>
+</p>
 
 ## Education
 
@@ -75,44 +83,3 @@
 <p align="center">
   <strong><span style="font-size: 164px;">It seems there are no projects available at the moment. Stay tuned!</span></strong>
 </p>
-
-
-
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/nakib_nahid" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/nakib-nahid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/nakibnahid.restricted" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/_nahid_xd_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/nahid_restricted" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="462" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrulnakibnahid&theme=transparent&card_width=750" alt="GitHub Streak" width="820" />
-</p>
-
-<!--
-**nusrulnakibnahid/nusrulnakibnahid** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
