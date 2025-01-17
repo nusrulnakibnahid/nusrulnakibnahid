@@ -9,15 +9,9 @@
 
 #### <h5 align="center">Welcome to my GitHub profile! I am a software engineering student at Daffodil International University, interested in developing innovative and user-friendly software. I enjoy learning new technologies and collaborating with others to create meaningful products. I actively seek opportunities to expand my skill set. I am committed to continuous learning, realizing that the technology landscape is constantly evolving.</h5> 
 
-
-
-
 <p align="left">
   <a href="https://u8views.com/github/nusrulnakibnahid"><img src="https://u8views.com/api/v1/github/profiles/105875914/views/day-week-month-total-count.svg" alt="U8Views Profile View Counter" /></a>
-
 </p> 
-
-  
 
 
 ## About Me
@@ -31,14 +25,6 @@
 - 🎯 Hobby: 
   - 🏏 Cricket 
   - 🧳 Travelling
-
-## Certificates & Achievements
-
-<p align="center">
-  <a href="[https://drive.google.com/drive/folders/YOUR_DRIVE_LINK](https://drive.google.com/drive/folders/1vXb9Ceh73GHBMhZvj-Z4CL1MVljUP3i2)" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Certificates%20&%20Achievements-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificates & Achievements" />
-  </a>
-</p>
 
 ## Education
 
@@ -73,7 +59,6 @@
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Projects
-
 <p align="center">
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Empty Folder Icon" width="100" />
 </p>
@@ -82,4 +67,42 @@
 </p>
 <p align="center">
   <strong><span style="font-size: 164px;">It seems there are no projects available at the moment. Stay tuned!</span></strong>
+</p>
+
+## Achievements & Certifications
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1vXb9Ceh73GHBMhZvj-Z4CL1MVljUP3i2" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/certificate.png" alt="Certifications Icon" />
+  </a>
+</p>
+<p align="center">
+  <strong><span style="font-size: 16px;">Click the icon above to view my certifications and achievements!</span></strong>
+</p>
+
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/nakib_nahid" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/nakib-nahid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/nakibnahid.restricted" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/_nahid_xd_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/nahid_restricted" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="420" />
 </p>
