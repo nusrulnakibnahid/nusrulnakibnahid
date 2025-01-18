@@ -106,3 +106,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
   <img src="https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="420" />
 </p>
+
+
+## GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=highcontrast&hide_border=true" alt="GitHub Streaks" />
+</p>
+
