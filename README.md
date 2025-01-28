@@ -77,19 +77,33 @@
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Empty Folder Icon" width="100" />
+  <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-No%20Projects-yellow?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="No Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-8%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
-  <strong>It seems there are no projects available at the moment. Stay tuned for updates!</strong>
+  <strong>Explore my projects below:</strong>
 </p>
+
+
+## 🚀 Featured Projects
+
+1. [Photo Gallery Application](https://github.com/nusrulnakibnahid/Photo-Gallery-Application)  
+2. [Task APP API Development with PHP and MySQL](https://github.com/nusrulnakibnahid/Task-APP-API-Development-with-PHP-and-MySQL)  
+3. [Raw SQL Blog Project](https://github.com/nusrulnakibnahid/Raw-SQL-Blog-Project)  
+4. [Simple Vehicle Listing App in PHP](https://github.com/nusrulnakibnahid/Simple-Vehicle-Listing-App-in-PHP)  
+5. [To-Do App in PHP](https://github.com/nusrulnakibnahid/To-Do-App-in-PHP)  
+6. [Terminal-Based Quiz Application in PHP](https://github.com/nusrulnakibnahid/Terminal-Based-Quiz-Application-in-PHP)  
+7. [My Portfolio Website](https://github.com/nusrulnakibnahid/My-Portfolio-Website)  
+8. [Capstone Project: Quiz Game](https://github.com/nusrulnakibnahid/Capstone-Project-Quiz-Game)  
 
 ---
+
+
 
 ## 🏆 Achievements & Certifications
 
