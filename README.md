@@ -83,12 +83,11 @@
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-8%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-9%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
   <strong>Explore my projects below:</strong>
 </p>
-
 
 ## 🚀 Featured Projects
 
@@ -100,6 +99,8 @@
 6. [Terminal-Based Quiz Application in PHP](https://github.com/nusrulnakibnahid/Terminal-Based-Quiz-Application-in-PHP)  
 7. [My Portfolio Website](https://github.com/nusrulnakibnahid/My-Portfolio-Website)  
 8. [Capstone Project: Quiz Game](https://github.com/nusrulnakibnahid/Capstone-Project-Quiz-Game)  
+9. [One-Page App Marketing Landing Page](https://github.com/nusrulnakibnahid/One-Page-App-Marketing-Landing-Page/tree/main)
+
 
 ---
 
