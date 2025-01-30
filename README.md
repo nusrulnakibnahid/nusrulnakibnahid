@@ -121,23 +121,23 @@
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/nakib_nahid" target="_blank">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px; border: 2px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+  <a href="https://twitter.com/nakib_nahid" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://linkedin.com/in/nakib-nahid" target="_blank">
+  <a href="https://linkedin.com/in/nakib-nahid" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/nakibnahid.restricted" target="_blank">
+  <a href="https://fb.com/nakibnahid.restricted" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/_nahid_xd_" target="_blank">
+  <a href="https://instagram.com/_nahid_xd_" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/nahid_restricted" target="_blank">
+  <a href="https://discord.gg/nahid_restricted" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
+</div>
 
 ---
 
