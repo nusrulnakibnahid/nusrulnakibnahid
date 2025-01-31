@@ -100,8 +100,7 @@
 7. [My Portfolio Website](https://github.com/nusrulnakibnahid/My-Portfolio-Website)  
 8. [Capstone Project: Quiz Game](https://github.com/nusrulnakibnahid/Capstone-Project-Quiz-Game)  
 9. [One-Page App Marketing Landing Page](https://github.com/nusrulnakibnahid/One-Page-App-Marketing-Landing-Page/tree/main)  
-10. [Cashout-Charge-Counter-BD](https://github.com/user-attachments/assets/2bdc1bc6-d6e7-4e1d-bdba-1511d2dbbda1)
-
+10. [Cashout-Charge-Counter-BD](https://github.com/nusrulnakibnahid/Cashout-Charge-Counter-BD)
 
 ---
 
