@@ -102,6 +102,8 @@
 | 9 | [One-Page App Marketing Landing Page](https://github.com/nusrulnakibnahid/One-Page-App-Marketing-Landing-Page/tree/main) |
 | 10 | [Cashout-Charge-Counter-BD](https://github.com/nusrulnakibnahid/Cashout-Charge-Counter-BD) |
 | 11 | [One-Page-Restaurant-Landing-Page-with-Bootstrap](https://github.com/nusrulnakibnahid/One-Page-Restaurant-Landing-Page-with-Bootstrap) |
+| 12 | [Todo-App-with-HTML-CSS-and-JS](https://github.com/nusrulnakibnahid/Todo-App-with-HTML-CSS-and-JS) |
+
 
 </div>
 
@@ -149,7 +151,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nusrulnakibnahid&show_icons=true&locale=en" alt="GitHub Stats" width="461" />
 </p>
 
 ---
