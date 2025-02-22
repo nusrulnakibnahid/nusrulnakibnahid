@@ -84,7 +84,7 @@
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-11%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-12%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
   <strong>Explore my projects below:</strong>
