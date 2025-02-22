@@ -36,7 +36,7 @@
 
 - 🌱 **Currently Exploring:** Web development and advanced software practices.  
 - 💬 **Ask Me About:** PHP, Laravel, HTML, CSS, JavaScript, and other web technologies.  
-- 📧 **Email:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)  
+- 📧 **Email:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)   
 - 🌐 **Portfolio Website:** [nusrulnakibnahid.github.io](https://nusrulnakibnahid.github.io/My-Portfolio-Website/)  
 - ⚡ **Fun Fact:** Cristiano Ronaldo is my role model—his story of perseverance inspires me to aim for greatness.  
 - 🎯 **Hobbies:**  
