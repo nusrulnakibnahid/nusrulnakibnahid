@@ -89,7 +89,7 @@
 
 <div align="center">
 
-| # | Project Name |
+| Serial Number | Project Name |
 |---|-------------|
 | 1 | [Photo Gallery Application](https://github.com/nusrulnakibnahid/Photo-Gallery-Application) |
 | 2 | [Task APP API Development with PHP and MySQL](https://github.com/nusrulnakibnahid/Task-APP-API-Development-with-PHP-and-MySQL) |
