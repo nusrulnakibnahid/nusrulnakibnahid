@@ -2,13 +2,18 @@
   <img src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" /> 
 </p>  
    
-<h4 align="center"> بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h4>  
 
 ![Profile Banner](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
 
 ---
 
 # <h3 align="center"><b><u> Assalamu Alaikum, I’m Nahid! </u></b></h3> 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 
 <h5 align="center">
   Welcome to my GitHub profile! I am a passionate Software Engineering student at 
@@ -27,7 +32,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 **Currently Exploring:** Web development and advanced software practices.  
 - 💬 **Ask Me About:** PHP, Laravel, HTML, CSS, JavaScript, and other web technologies.  
@@ -161,5 +166,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=highcontrast&hide_border=true" alt="GitHub Streaks" />
 </p>
-
-
