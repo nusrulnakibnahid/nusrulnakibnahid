@@ -84,7 +84,7 @@
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-12%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-13%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
   <strong>Explore my projects below:</strong>
@@ -108,6 +108,7 @@
 | 10 | [Cashout-Charge-Counter-BD](https://github.com/nusrulnakibnahid/Cashout-Charge-Counter-BD) |
 | 11 | [One-Page-Restaurant-Landing-Page-with-Bootstrap](https://github.com/nusrulnakibnahid/One-Page-Restaurant-Landing-Page-with-Bootstrap) |
 | 12 | [Todo-App-with-HTML-CSS-and-JS](https://github.com/nusrulnakibnahid/Todo-App-with-HTML-CSS-and-JS) |
+| 13 | [Basic-Calculator-Using_HTML-CSS-JS](https://github.com/nusrulnakibnahid/Basic-Calculator-Using-HTML-CSS-JS/tree/main) |
 
 
 </div>
