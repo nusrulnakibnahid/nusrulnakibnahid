@@ -86,7 +86,7 @@
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-14%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-15%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
   <strong>Explore my projects below:</strong>
@@ -112,6 +112,7 @@
 | 12 | [Todo-App-with-HTML-CSS-and-JS](https://github.com/nusrulnakibnahid/Todo-App-with-HTML-CSS-and-JS) |
 | 13 | [Basic-Calculator-Using-HTML-CSS-JS](https://github.com/nusrulnakibnahid/Basic-Calculator-Using-HTML-CSS-JS/tree/main) |
 | 14 | [Online-Bookshop-Management-with-HTML--CSS--JS--API--PHP-and-MySQL](https://github.com/nusrulnakibnahid/Online-Bookshop-Management-with-HTML--CSS--JS--API--PHP-and-MySQL) |
+| 15 | [Hadith-Generator](https://sunnah-sparks.netlify.app/) |
 
 
 </div>
