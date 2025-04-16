@@ -176,9 +176,12 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=highcontrast&hide_border=true" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=cobalt&hide_border=true" alt="GitHub Streaks" />
 </p>
 
-
 ## ✨ Quote of the Day
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote"/> </div> ```
+<div align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Inspirational Quote"/> 
+</div>
+
+
