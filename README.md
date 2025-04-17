@@ -176,8 +176,9 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=cobalt&hide_border=true" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=default&hide_border=true" alt="GitHub Streaks" />
 </p>
+
 
 ## ✨ Quote of the Day
 <div align="center"> 
