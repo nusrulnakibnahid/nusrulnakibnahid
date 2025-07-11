@@ -87,7 +87,7 @@
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-20%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Projects-21%20Available-brightgreen?style=for-the-badge&logo=project-diagram&logoColor=white&labelColor=black&logoWidth=100" alt="Projects Badge" />
 </p>
 <p align="center">
   <strong>Explore my projects below:</strong>
@@ -119,6 +119,7 @@
 | 18 | [Real Madrid CF - Official Website Clone](https://real-madrid-cf-clone.netlify.app/) |
 | 19 | [Boycott-Israel](https://boycott-israel-product.vercel.app/) |
 | 20 | [Task-Project-With-Laravel-Framework](https://github.com/nusrulnakibnahid/Task-Project-With-Laravel-Framework) |
+| 21 | [Invoice-Genie](https://invoice-genie.vercel.app/) |
 
 
 
