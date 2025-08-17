@@ -1,5 +1,5 @@
 <p align="right">     
-  <img  src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" /> 
+  <img  src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />  
 </p>     
    
        
