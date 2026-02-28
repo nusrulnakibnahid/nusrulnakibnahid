@@ -75,7 +75,7 @@
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Inertia.js](https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=inertia&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-|  |  | ![RestAPI](https://img.shields.io/badge/REST%20API-FF4500?style=for-the-badge&logo=api&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![RestAPI](https://img.shields.io/badge/REST%20API-FF4500?style=for-the-badge&logo=api&logoColor=white) |
 |  |  | ![Payment Gateway](https://img.shields.io/badge/Payment%20Gateway-FFD700?style=for-the-badge&logo=paypal&logoColor=black) |
 |  |  | ![CodeCanyon](https://img.shields.io/badge/CodeCanyon-181717?style=for-the-badge&logo=envato&logoColor=white) |
 
