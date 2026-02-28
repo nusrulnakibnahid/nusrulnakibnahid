@@ -56,8 +56,8 @@
   - **JSC** (2015)  
   - **SSC** (2016–2018)  
   - **HSC** (2018–2020)  
-- **Undergraduate Degree:**  
-  **B.Sc. in Software Engineering** (2022–Present)  
+- **Graduate Degree:**  
+  **B.Sc. in Software Engineering** (2022–2025)  
   [Daffodil International University](https://daffodilvarsity.edu.bd/)  
 
 ---
