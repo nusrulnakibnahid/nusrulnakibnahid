@@ -12,18 +12,23 @@
 
                 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=B.Sc+in+Software+Engineering;PHP+%7C+Laravel+%7C+Python;Open+Source+Contributor;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=B.Sc+in+Software+Engineering;PHP+%7C+Laravel+%7C+Python;Webflow+Developer+at+Softvence;" alt="Typing SVG" />
 </p>
   
 
 
 
+
+
 <h5 align="center">
-  Welcome to my GitHub profile! I am a passionate Software Engineering student at 
+  Welcome to my GitHub profile! I am a passionate Software Engineer and currently working as a 
+  <b>Webflow Developer at Softvence Agency</b>. 
+  I have graduated from 
   <a href="https://daffodilvarsity.edu.bd/" target="_blank">Daffodil International University</a>. 
-  I thrive on crafting innovative, user-friendly software solutions and love exploring new technologies. 
+  I specialize in building modern, responsive, and user-focused web experiences. 
+  I thrive on crafting innovative digital solutions and continuously exploring new technologies. 
   Collaboration, learning, and growth are at the heart of my journey in this ever-evolving tech landscape.
-</h5> 
+</h5>
 
 <p align="center">
   <a href="https://u8views.com/github/nusrulnakibnahid">
@@ -35,7 +40,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 **Currently Exploring:** Web development and advanced software practices.  
 - 💬 **Ask Me About:** PHP, Laravel, HTML, CSS, JavaScript, and other web technologies.  
