@@ -7,8 +7,7 @@
 ---       
 
 
-       
-# <h3 align="center"><b><u> Assalamu Alaikum, I’m Nahid. </u></b></h3>     
+# <h3 align="center"><b><u> Assalamu Alaikum, I’m Nahid! </u></b></h3>     
                 
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=B.Sc+in+Software+Engineering;PHP+%7C+Laravel+%7C+Python;Webflow+Developer+at+Softvence;" alt="Typing SVG" />
