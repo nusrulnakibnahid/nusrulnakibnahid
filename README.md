@@ -6,15 +6,11 @@
         
 ---       
 
-
 # <h3 align="center"><b><u> Assalamu Alaikum, I’m Nahid! </u></b></h3>     
                 
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=000000&center=true&vCenter=true&random=false&width=500&lines=B.Sc+in+Software+Engineering;PHP+%7C+Laravel+%7C+Python;Webflow+Developer+at+Softvence;" alt="Typing SVG" />
 </p>
-  
-
-
 
 <h5 align="center">
   Welcome to my GitHub profile! I am a passionate Software Engineer and currently working as a 
@@ -48,7 +44,6 @@
   - 🌍 Traveling  
 
 ---
-
 ## 🎓 Education
 
 - **Primary & Secondary Education:**  
@@ -120,15 +115,8 @@
 | 20 | [Task-Project-With-Laravel-Framework](https://github.com/nusrulnakibnahid/Task-Project-With-Laravel-Framework) |
 | 21 | [Invoice-Genie](https://invoice-genie.vercel.app/) |
 
-
-
-
 </div>
-
-
 ---
-
-
 
 ## 🏆 Achievements & Certifications
 
@@ -180,10 +168,7 @@
   <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=default&hide_border=true" alt="GitHub Streaks" />
 </p>
 
-
 ## ✨ Quote of the Day
 <div align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Inspirational Quote"/> 
 </div>
-
-
