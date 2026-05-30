@@ -23,9 +23,6 @@
 </h5>
 
 
-
-
-
 <p align="center">
   <a href="https://u8views.com/github/nusrulnakibnahid">
     <img src="https://u8views.com/api/v1/github/profiles/105875914/views/day-week-month-total-count.svg" alt="U8Views Profile View Counter" />
