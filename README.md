@@ -124,7 +124,6 @@
 | 21 | [Invoice-Genie](https://invoice-genie.vercel.app/) |
 
 </div>
----
 
 ## 🏆 Achievements & Certifications
 
