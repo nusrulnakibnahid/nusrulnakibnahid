@@ -36,21 +36,21 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🌱 **Currently Exploring:** Web development and advanced software practices.  
-- 💬 **Ask Me About:** PHP, Laravel, HTML, CSS, JavaScript, and other web technologies.  
-- 📧 **Email:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)   
-- 🌐 **Portfolio Website:** [Nusrul Nakib Nahid](https://nusrulnakibnahid.netlify.app/)  
-- ⚡ **Fun Fact:** Cristiano Ronaldo is my role model—his story of perseverance inspires me to aim for greatness.  
-- 🎯 **Hobbies:**  
-  - 🏏 Cricket  
-  - 🌍 Traveling  
+-  **Currently Exploring:** Web development and advanced software practices.  
+-  **Ask Me About:** PHP, Laravel, HTML, CSS, JavaScript, and other web technologies.  
+-  **Email:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)   
+-  **Portfolio Website:** [Nusrul Nakib Nahid](https://nusrulnakibnahid.netlify.app/)  
+-  **Fun Fact:** Cristiano Ronaldo is my role model—his story of perseverance inspires me to aim for greatness.  
+-  **Hobbies:**  
+  -  Cricket  
+  -  Traveling  
 
 ---
-## 🎓 Education
+##  Education
 
 - **Primary & Secondary Education:**  
   [Uttara High School & College](https://en.wikipedia.org/wiki/Uttara_High_School_and_College)  
@@ -63,7 +63,7 @@
   [Daffodil International University](https://daffodilvarsity.edu.bd/)  
 
 ---
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 </div>
 
 
-## 📂 Projects
+##  Projects
 
 <p align="center">
   <img src="https://img.icons8.com/ios/452/folder-invoices.png" alt="Projects Folder Icon" width="100" />
@@ -94,7 +94,7 @@
   <strong>Explore my projects below:</strong>
 </p>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
@@ -124,7 +124,7 @@
 
 </div>
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1vXb9Ceh73GHBMhZvj-Z4CL1MVljUP3i2" target="_blank">
@@ -137,7 +137,7 @@
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px; border: 2px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
   <a href="https://twitter.com/nakib_nahid" target="_blank" style="text-decoration: none;">
@@ -159,7 +159,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrulnakibnahid&layout=compact&show_icons=true&locale=en" alt="Top Languages" width="350" />
@@ -168,13 +168,13 @@
 
 ---
 
-## 🔥 GitHub Streaks
+##  GitHub Streaks
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nusrulnakibnahid&theme=default&hide_border=true" alt="GitHub Streaks" />
 </p>
 
-## ✨ Quote of the Day
+##  Quote of the Day
 <div align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Inspirational Quote"/> 
 </div>
