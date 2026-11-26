@@ -2,7 +2,7 @@
   <img  src="https://komarev.com/ghpvc/?username=nusrulnakibnahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />   
 </p>                             
                                                                      
-![Profile Banner](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)   
+![Profile Banner](https://github.com/nusrulnakibnahid/nusrulnakibnahid/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)     
 ---      
   
 # <h3 align="center"><b><u> Assalamu Alaikum, I’m Nahid! </u></b></h3>              
